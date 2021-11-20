@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "uuid": "45305bd2-5c22-44ff-a90d-0f4190699e41",
+    "name": "18yrBoomer",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "de3a3a14-afef-4050-8e47-13f618bfe6ae",
+    "name": "MinecraftXpert00",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "53cf38ee-8cb3-4edb-9609-dbdb6a85e700",
+    "name": "MovedCape",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
