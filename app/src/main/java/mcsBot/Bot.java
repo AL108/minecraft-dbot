@@ -32,7 +32,7 @@ public class Bot extends ListenerAdapter
             return;
         } */
         final String SERVER_PATH = "/home/alien/Desktop/mc-server/server.jar";
-        final String TOKEN = "OTEwODE3MzMyMDk0NDU1ODI4.YZYWvg.hah9DfkJYSesun1-BBuXIfkR9Lg";
+        final String TOKEN = "<token>";
         // We only need 2 intents in this bot. We only respond to messages in guilds and private channels.
         // All other events will be disabled.
         JDA jda  = JDABuilder.createLight(TOKEN, GatewayIntent.GUILD_MESSAGES, GatewayIntent.DIRECT_MESSAGES)
